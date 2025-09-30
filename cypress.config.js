@@ -5,8 +5,8 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
-    viewportHeight: 932, //высота
-    viewportWidth: 430, //ширина
+    viewportHeight: 1920, //высота
+    viewportWidth: 1080, //ширина
     blockHosts: ["*mc.yandex.ru"],
     baseUrl:"https://login.qa.studio"
     
